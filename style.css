@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 255, 255);
+    background-image: url("download.jpg");
+}
+.cafe {
+    font-size: 100px;
+    color: white;
+    padding-left: 750px;
+}
+.fyi {
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    background-color: rgb(255, 255, 255);
+    padding-left: 250px;
+    padding-bottom: 300px;
+}
+.about {
+    color: white;
+    background-color: black;
+    padding-left: 750px;
+}

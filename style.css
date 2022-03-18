@@ -1,6 +1,6 @@
 body {
     background-color: rgb(255, 255, 255);
-    background-image: url("download.jpg");
+    background-image: url("download.jpg") no-repeat center center fixed;
 }
 .cafe {
     font-size: 100px;
@@ -19,3 +19,27 @@ body {
     background-color: black;
     padding-left: 750px;
 }
+.navi {
+    background-color: black;
+    padding-left: 300px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+li {
+    display: inline;
+    padding-left: 150px;
+    font-size: 30px;
+  }
+  a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  }
+  img {
+      height: 975px;
+  }
+  .mb {
+      background-color: black;
+      color: white;
+      font-size: 60px;
+      padding-left: 400px;
+  }
